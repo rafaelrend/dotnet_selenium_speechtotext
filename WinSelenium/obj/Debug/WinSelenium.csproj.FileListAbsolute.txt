@@ -1,0 +1,11 @@
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\bin\Debug\WinSelenium.exe.config
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\bin\Debug\WinSelenium.exe
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\bin\Debug\WinSelenium.pdb
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\bin\Debug\WebDriver.dll
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\bin\Debug\WebDriver.xml
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\obj\Debug\WinSelenium.csprojResolveAssemblyReference.cache
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\obj\Debug\WinSelenium.Form1.resources
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\obj\Debug\WinSelenium.Properties.Resources.resources
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\obj\Debug\WinSelenium.csproj.GenerateResource.Cache
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\obj\Debug\WinSelenium.exe
+D:\Unidade G\Sistemas\Projetos Web\Bruno\Interacoes\SpeechToText\WinSelenium\WinSelenium\obj\Debug\WinSelenium.pdb
